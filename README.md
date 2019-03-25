@@ -14,6 +14,7 @@ compared to Lempel -Ziv complexity.
 If you use this dataset for any case, please cite mainly reference no.1
 
 References:
+
 [1] S.I. Dimitriadis (2018). Complexity of brain activity and connectivity in functional neuroimaging. Journal of Neuroscience
 Research, 96(11):1741–1757, 2018.
 
