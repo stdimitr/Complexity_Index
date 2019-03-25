@@ -16,9 +16,11 @@ If you use this dataset for any case, please cite mainly reference no.1
 References:
 [1] S.I. Dimitriadis (2018). Complexity of brain activity and connectivity in functional neuroimaging. Journal of Neuroscience
 Research, 96(11):1741–1757, 2018.
+
 [2] Antonakakis M, Dimitriadis SI et al.,(2016) Improving the Detection of mTBI Via Complexity Analysis in Resting – State Magnetoencephalography.
    DOI: 10.1109/IST.2016.7738215
 Conference: 2016 IEEE International Conference on Imaging Systems and Techniques (IST 2016)At: Chania Crete Greece
+
 [3] Dimitriadis SI et al., (2016) Classifying Children with Reading Difficulties from Non-Impaired Readers via Symbolic Dynamics and Complexity Analysis of MEG Resting-State Data.
 December 2016 ; DOI: 10.1109/ISSPIT.2016.7886059
 Conference: IEEE International Symposium on Signal Processing and Information Technology (ISSPIT)At: Limassol (CYPRUS)
