@@ -1,0 +1,36 @@
+function complexity=from_sequence_to_complexity(ts,m,tau)
+
+
+%%%%% INPUT : 
+%%%%%         ts = time series 1 x n where denotes the number of samples
+%%%%%          m = embedding dimension
+%%%%%        tau = time delat
+%%%%% OUTPUT:
+%%%tv_complexity = the complexity index
+
+
+%%% V 1.0 Stavros I. Dimitriadis, 12/11/2017
+
+samples=length(ts);
+
+
+ [ex] = embeddelay(ts, m, tau);
+[d1 d2]=size(ex);
+
+
+error=zeros(1,20);
+
+for k=1:20
+    [prototypes,sequence,Average_Error,Convergence_Index]=Vector_Quantization(ex,k,5);
+    error(k)=Average_Error;
+end
+
+        %%complexity
+        [ci,spectrum,cumWords] = sequencecomplexity(sequence(tt),7,0,10);
+        complexity=ci;
+   
+     
+
+
+
+
