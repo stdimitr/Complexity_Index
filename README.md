@@ -6,7 +6,7 @@ I have presented this novel complexity index in every functional neuroimaging mo
 
 We have adapted this novel complexity index in conjunction with famous Lempel -Ziv complexity
 in two MEG datasets,  one with mild traumatic brain injury and healthy control subjects [2]
-one with dsylexic children and healthy controls [3].
+and one with dsylexic children and healthy controls [3].
 In both datasets, we reported higher classification performance for detecting reading children and
 mild traumatic brain inured subjects versus healthy controls with our novel complexity index
 compared to Lempel -Ziv complexity.
